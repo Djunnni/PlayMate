@@ -13,3 +13,4 @@
 
 - 사진 :
 
+![메인화면](https://github.com/Djunnni/PlayMate/blob/master/img/img0.png)
