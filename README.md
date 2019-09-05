@@ -12,5 +12,11 @@
 - 설명 : PlayMate 는 초, 중, 고 학습관리 시스템이면서 학생들에게 맞춤 동영상 컨텐츠를 제공하고자 Youtube API를 이용하였습니다.
 
 - 사진 :
-
+ - 메인화면 
 ![메인화면](https://github.com/Djunnni/PlayMate/blob/master/img/img0.png)
+
+ - 회원가입 
+![회원가입](https://github.com/Djunnni/PlayMate/blob/master/img/img1.png)
+
+ - 동영상 추천화면
+ ![동영상 추천화면](https://github.com/Djunnni/PlayMate/blob/master/img/img2.jpg)
